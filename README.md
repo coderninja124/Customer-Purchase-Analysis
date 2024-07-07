@@ -1,4 +1,4 @@
-# Sales Data Analysis Project
+# Customer Analysis Project
 
 ## Overview
 
