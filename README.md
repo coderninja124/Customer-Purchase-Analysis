@@ -1,4 +1,4 @@
-# Customer Analysis Project
+# Customer Purchase Analysis Project
 
 ## Overview
 
